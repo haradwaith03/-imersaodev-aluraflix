@@ -8,3 +8,6 @@ Conceitos aprendidos:
 - Refatoração;
 - Funções
 - Edição CSS
+
+
+https://imersao.dev/aulas/aula05-aluraflix-interacoes-funcoes
